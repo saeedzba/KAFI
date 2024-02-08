@@ -1,0 +1,1 @@
+export const contract ="0x4440671001CAec72c5a8537ef6acD5426d9c5151";

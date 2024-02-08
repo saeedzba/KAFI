@@ -1,0 +1,6 @@
+[submodule "dapp/lib/forge-std"]
+	path = dapp/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std.git
+[submodule "dapp/foundry/cont/lib/forge-std"]
+	path = dapp/foundry/cont/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std.git
